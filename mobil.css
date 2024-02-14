@@ -2,5 +2,14 @@
     width: 80%;
     }
 
+    #menü, #sipariş {
+        width: 45%;
+        display: inline-block;
+        border: 1px solid black;  
+        border-radius: 5px;
+        vertical-align: top;
+        
+        }
+
 
 
