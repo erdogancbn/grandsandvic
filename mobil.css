@@ -2,24 +2,11 @@
     width: 80%;
     }
 
-    #menü, #sipariş {
-        width: 45%;
-        display: inline-block;
-        border: 1px solid black;  
-        border-radius: 5px;
-        vertical-align: top;
-        
-        }
+    body {
+        background: linear-gradient(to bottom right, #131212, #FAF6F0) !important;
+    }
 
-        #menü a, #sipariş a{
-            display: inline-block;
-            border: 1px solid black;
-            height: 140px; 
-            width: 90%;
-            border-radius: 7px;
-            margin: 10px;
-            text-decoration: none;
-            color: aliceblue;
-            transition: 0.3s;
-            background-color:#dcd0d0;}
+    #menü, #sipariş {
+    width: 45% !important; 
+    }
 
