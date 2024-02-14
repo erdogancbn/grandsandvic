@@ -2,10 +2,6 @@
     width: 80%;
     }
 
-    body {
-        background: linear-gradient(to bottom right, #131212, #FAF6F0) !important;
-    }
-
     #menü, #sipariş {
     width: 45% !important; 
     }
