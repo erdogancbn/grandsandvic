@@ -11,5 +11,15 @@
         
         }
 
-
+        #menü a, #sipariş a{
+            display: inline-block;
+            border: 1px solid black;
+            height: 140px; 
+            width: 90%;
+            border-radius: 7px;
+            margin: 10px;
+            text-decoration: none;
+            color: aliceblue;
+            transition: 0.3s;
+            background-color:#dcd0d0;}
 
